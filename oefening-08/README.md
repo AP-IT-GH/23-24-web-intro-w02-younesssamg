@@ -10,7 +10,7 @@
 ### voorbeeld namaken
 
 - [ ] Maak het volgende voorbeeld na met behulp van HTML. Bedenk zelf welke elementen het meest geschikt zijn voor elk onderdeel.
-  - Kies zelf een rechtenvrije afbeelding op https://www.pexels.com/nl-nl/.
+- [ ] Gebruik hierbij de afbeelding `ei.png`.
   - **tip:** De tekst onder een afbeelding wordt ook wel eens een _caption_ genoemd.
   - **tip:** Gebruik websites als [w3schools](https://www.w3schools.com) of [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML) om weinig bekende elementen op te zoeken. Uiteraard kan Google ook altijd helpen!
 
