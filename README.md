@@ -1,14 +1,15 @@
-# 💻 02. HTML - basis
+# 💻 02. HTML - basis2
 
 ## 🥅 overzicht en leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - HTML-code schrijven
- - wat tags, elementen, attributes zijn
+
+- HTML-code schrijven
+- wat tags, elementen, attributes zijn
 
 ## 🔍 week 02: HTML-basis
 
-In deze repository vind je 10 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` *in die map*.
+In deze repository vind je 10 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
 
 Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op Digitap. Nadien corrigeer je zelf jouw labo op basis van de correctiesleutel op Digitap, om zo te leren uit jouw fouten.
 
