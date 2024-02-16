@@ -1,4 +1,4 @@
-# 💻 02. HTML - basis2
+# 💻 02. HTML - basis
 
 ## 🥅 overzicht en leerdoelen
 
